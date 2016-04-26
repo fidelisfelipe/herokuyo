@@ -32,6 +32,9 @@ exports.index = function(req, res) {
   },{
   name : 'Deployment Ready',
   info : 'Easily deploy your app to Heroku or Openshift with the heroku and openshift subgenerators'
+  },{
+  name : 'Integration Plus',
+  info : 'Easily deploy your app to Heroku or Openshift with the heroku and openshift subgenerators'
   }
   ]);
 };
